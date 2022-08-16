@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>
+        Site do roger
+    </title>
+    <link rel="stylesheet"  href="style.css">
+</head>
+<body>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw8CKGEyppbguIc-1TjeysNbCj-sWdk-UAUwbrPi8zOiX8Eal_m0b-o5Cd7orjpNRXbb4&usqp=CAU" width="40%" height="40%">
+    <h1>site do roger </h1>
+
+<p><b>Primeiro Parágrafo</b></p>
+<p><i>Segundo parágrafo do meu site</i></p>
+<p><u>Terceiro Parágrafo do meu site</u></p>
+
+<ul>
+                <li class="itens">Atendimento aos clientes</li>
+                <li class="itens">Espaço diferenciado</li>
+                <li class="itens">Localização</li>
+                <li class="itens">Profissionais qualificados</li>
+            </ul>
+</body>
+</html>
