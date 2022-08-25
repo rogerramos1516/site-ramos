@@ -3,26 +3,26 @@
 <head>
     <meta charset="utf-8">
     <title>
-        Site do roger
+        Site do corinthiano
     </title>
     <link rel="stylesheet"  href="style.css">
 </head>
 <body>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw8CKGEyppbguIc-1TjeysNbCj-sWdk-UAUwbrPi8zOiX8Eal_m0b-o5Cd7orjpNRXbb4&usqp=CAU" width="40%" height="40%">
-    <h1>site do roger </h1>
+    <h1>Site do ramos </h1>
 
-<p><b>Primeiro Parágrafo</b></p>
-<p><i>Segundo parágrafo do meu site</i></p>
-<p><u>Terceiro Parágrafo do meu site</u></p>
+<p><b>Corinhians campeão!!</b></p>
+<p><i>Torcida organizada</i></p>
+<p><u>Amassador de porcos!!</u></p>
 
 <ul>
-                <li class="itens">Atendimento aos clientes</li>
-                <li class="itens">Espaço diferenciado</li>
-                <li class="itens">Localização</li>
-                <li class="itens">Profissionais qualificados</li>
+                <li class="itens">Campeão do mundo!!</li>
+                <li class="itens">Salve o corinthians</li>
+                <li class="itens">Mior do brasil</li>
+                <li class="itens">Yuri alberto e Roger guedes </li>
             </ul>
             <div>
-                <iframe width="640" height="480" src="https://www.youtube.com/embed/zNZoBXiKtKM" title="HINO DO CHELSEA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="853" height="480" src="https://www.youtube.com/embed/oRkOFmDFfJk?list=RDGMEM2VCIgaiSqOfVzBAjPJm-ag" title="MEGA FUNK - LANÇAMENTOS OUTUBRO 2021 (Dj Pereira SC)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
 </body>
 </html>
